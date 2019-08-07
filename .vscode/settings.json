@@ -1,0 +1,15 @@
+{
+  "sqltools.connections": [
+    {
+      "askForPassword": false,
+      "connectionTimeout": 30,
+      "database": "gobarber",
+      "dialect": "PostgreSQL",
+      "name": "postgis",
+      "password": "docker",
+      "port": 5432,
+      "server": "localhost",
+      "username": "docker"
+    }
+  ]
+}
